@@ -10,3 +10,10 @@ Tendo isso em vista, nele serão abordadas algumas ferramentas fundamentais para
 <p>  </p>
 <h4> Material de desenvolvimento do projeto </h4>
 <h4>
+ <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Design já fabricado</li>
+ </ul>
+</h4>
