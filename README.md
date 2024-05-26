@@ -2,7 +2,7 @@
 
 <h3>Bonjour,</h3>
 <h4>
-Esse site tem como propósito desenvolver um visual já feito, então foi pego como referência um site da Nike onde são apresentados 3 tênis para exposição. Esse projeto vem para eu treinar o desenvolvimento de um site com design mais profissional, onde podem ser utilizadas profissionalmente, atestando minhas habilidades no desenvolvimento front-end. Então é a inspiração desse site serviu para treinar minha habilidades e os direitos de design da página não foram criados por mim. Mas espero que entendam
+O Nike-site é um projeto que busca reproduzir o design de uma página de produtos da Nike para treinar habilidades de desenvolvimento front-end. Inspirado no site oficial da Nike, este projeto foi criado com o objetivo de aprimorar técnicas de HTML, CSS e JavaScript. Contendo apenas suporte para desktop
 </h4>
 <h4>
 Tendo isso em vista, nele serão abordadas algumas ferramentas fundamentais para um bom profissional front-end. Ele possui suporte apenas para desktop, com várias ferramentas de animação e estilização da página. Espero que gostem
