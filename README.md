@@ -1,19 +1,32 @@
- # Nike-site
+# 👟 Nike-site
 
-<h3>Bonjour,</h3>
-<h4>
-O Nike-site é um projeto que busca reproduzir o design de uma página de produtos da Nike para treinar habilidades de desenvolvimento front-end. Inspirado no site oficial da Nike, este projeto foi criado com o objetivo de aprimorar técnicas de HTML, CSS e JavaScript. Contendo apenas suporte para desktop
-</h4>
-<h4>
-Tendo isso em vista, nele serão abordadas algumas ferramentas fundamentais para um bom profissional front-end. Ele possui suporte apenas para desktop, com várias ferramentas de animação e estilização da página. Espero que gostem
-</h4>
-<p>  </p>
-<h4> Material de desenvolvimento do projeto </h4>
-<h4>
- <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Design já fabricado</li>
- </ul>
-</h4>
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+![HTML](https://img.shields.io/badge/language-HTML-orange)
+![CSS](https://img.shields.io/badge/language-CSS-blue)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+
+## 📝 Description
+  **Nike-site** is a front-end project that aims to reproduce the design of a Nike product page, created to practice and enhance front-end development skills.  
+Inspired by the official Nike website, this project focuses on improving proficiency in **HTML**, **CSS**, and **JavaScript**.  
+It currently supports **desktop view only**, offering a clean and visually dynamic interface.
+
+## 🎨 Objective
+  This project explores key tools and techniques used by front-end developers, such as animations, layout styling, and responsive design concepts (limited to desktop).  
+The main goal is to refine the understanding of modern front-end structure and aesthetics.
+
+## 🧰 Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **Predefined Design Layout**
+
+## 💡 Features
+- 🎞️ Animated elements for better user interaction  
+- 🎨 Clean and modern Nike-inspired interface  
+- 💻 Desktop-only layout  
+- ⚙️ Modular structure for easy updates  
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/nike-site.git
